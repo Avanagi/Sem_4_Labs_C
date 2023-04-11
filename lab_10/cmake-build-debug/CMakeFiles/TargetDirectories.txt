@@ -1,0 +1,3 @@
+C:/Users/gorel/CLionProjects/Sem_4_Labs_C/lab_10/cmake-build-debug/CMakeFiles/lab_10.dir
+C:/Users/gorel/CLionProjects/Sem_4_Labs_C/lab_10/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/gorel/CLionProjects/Sem_4_Labs_C/lab_10/cmake-build-debug/CMakeFiles/rebuild_cache.dir
