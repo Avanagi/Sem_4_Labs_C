@@ -1,0 +1,3 @@
+C:/Users/gorel/CLionProjects/Lab_9/cmake-build-debug/CMakeFiles/Lab_9.dir
+C:/Users/gorel/CLionProjects/Lab_9/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/gorel/CLionProjects/Lab_9/cmake-build-debug/CMakeFiles/rebuild_cache.dir
