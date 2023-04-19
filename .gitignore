@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+/Lab_15/.vs/Lab_15/v17/Browse.VC.db
+/Lab_15/.vs/Lab_15/v17/Browse.VC.db-shm
+/Lab_15/.vs/Lab_15/v17/Browse.VC.db-wal
+/Lab_15/.vs/Lab_15/v17/Browse.VC.opendb
